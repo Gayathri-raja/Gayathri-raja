@@ -1,21 +1,29 @@
 ### Hi there 👋, I'm Gaayathri K R!
 
-**About me**🤷‍♀️
-*Computer Science and Engineering student at KPRIET.*
-*I'm a Smart working Full stack developer.*
-*Your success will be determined by your own confidence and fortitude.*
+🤍🤳🏻 LET'S GET CONNECTED
+LinkedIn Gmail
 
-Skills:  HTML / CSS / PHP / SQL
+🙋🏻‍♀️ ABOUT ME
+Kind people ❤️ are my kinda people 💁🏻‍♀️.
+👩🏻‍🎓 Computer Science & Engineering student at KPRIET.
+I'm a Goal-driven 🎯 and passionate Machine Learning practitioner.
+✨ I am a Data Science Enthusiast who wish to explore 🏄🏻‍♀️ more and keen to contribute more to a cause.
+👀 TAKE A LOOK AT MY WORKS ON
+Generic badge Generic badge
 
- gaayathri2629@gmail.com
+👩🏻‍💻 I’m currently working on Machine Learning Projects.
+🌱 I’m currently learning Algorithms and the Math 🧮 behind them.
+🌐 CODING STUFFS
+💻 SOFTWARE AND TOOLS
+Generic badge Generic badge Generic badge Generic badge Generic badge Generic badge
 
+👩🏻‍💻 PROGRAMMING & MARKUP LANGUAGES
+Generic badge Generic badge Generic badge Generic badge
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Gayathri-raja)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Gaayathri raja/)  
+🧰 FRAMEWORK & LIBRARIES
+Generic badge Generic badge Generic badge
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gayathri-raja)](https://github.com/anuraghazra/github-readme-stats)
+✍🏻 I WRITE MY QUERIES AT:
+Generic badge Generic badge
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Gayathri-raja&show_icons=true)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Gayathri-raja)  
-
-![Profile views](https://gpvc.arturio.dev/Gayathri-raja)  
+📈 GITHUB STATS

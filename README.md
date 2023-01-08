@@ -5,8 +5,7 @@
 
 Skills:  HTML / CSS / PHP / SQL
 
- 
-- 📫 How to reach me: gaayathri2629@gmail.com 
+ ![gmail](/gaayathri2629@gmail.com) 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Gayathri-raja)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Gaayathri raja/)  

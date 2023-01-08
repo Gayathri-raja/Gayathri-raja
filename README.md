@@ -1,9 +1,9 @@
 ### Hi there 👋, I'm Gaayathri K R!
 
-(**About me**)🤷‍♀️
-(*Computer Science and Engineering student at KPRIET.*)
-(*I'm a Smart working Full stack developer.*)
-(*Your success will be determined by your own confidence and fortitude.*)
+**About me**🤷‍♀️
+*Computer Science and Engineering student at KPRIET.*
+*I'm a Smart working Full stack developer.*
+*Your success will be determined by your own confidence and fortitude.*
 
 Skills:  HTML / CSS / PHP / SQL
 

@@ -44,16 +44,7 @@
      </p>
   </samp>
 </div>
-
-
-
-
-    
-    
-
-
-
-
+<br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gayathri-raja&" alt="gayathri-raja"/></p>
 
 

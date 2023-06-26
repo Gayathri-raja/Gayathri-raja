@@ -2,7 +2,7 @@
 <h1 align="left"> I'm Gaayathri raja</h1>
 <h3 align="left">A passionate Full Stack Developer and Content Writer</h3>
 <br>
-<h2>🧮 About Me</h2>
+<h2> About Me</h2>
 <ul>
     * Computer Science & Engineering Student at KPRIET <br>
     * I'm a Front-end Web Developer and Content Writer <br>

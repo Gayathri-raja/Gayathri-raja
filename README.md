@@ -17,7 +17,9 @@
 </ul>
 
 <h2>Programming Languages</h2>
-
+![Generic badge](https://img.shields.io/badge/MY%20SQL-CC2927?logo=mysql&logoColor=fff&style=flat)
+   ![Generic badge](https://img.shields.io/badge/HTML5-%23E34F26?logo=html5&logoColor=fff&style=flat)
+   ![Generic badge](https://img.shields.io/badge/CSS3-%2338B2AC?logo=css3&logoColor=fff&style=flat)
 <h2>Contact</h2>
  <div>
   <samp>

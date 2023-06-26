@@ -3,8 +3,13 @@
 <h3 align="left">A passionate Full Stack Developer and Content Writer</h3>
 <br>
 <h2>About Me</h2>
-  <p> * I am a front-end web developer and a content writer. I can provide clean code and pixel perfect design. <br>
-    * I also make the website more and more interactive with web animations.  <br> * A responsive design makes your website accessible to all users, regardless of their device.</p> 
+* Computer Science & Engineering student at KPRIET
+* I'm a Front-end Web Developer and Content-Writer
+* I can provide clean code and pixel perfect design
+
+
+    
+    
 
 
 

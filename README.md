@@ -18,12 +18,12 @@
 
 <h2>Programming Languages</h2>
 <ul>
-   *Html
-   *CSS
-   *Javascript
-   *Sql
-   *PHP
-   *Java
+   *Html <br>
+   *CSS <br>
+   *Javascript <br>
+   *Sql <br>
+   *PHP <br>
+   *Java <br> 
 </ul>
 
 <h2>Contact</h2>

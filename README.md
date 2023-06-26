@@ -33,7 +33,23 @@
       <a href="mailto:gaayathri2629@gmail.com" target="blank"><img align="center"
          src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
          alt="azzar" height="30"/></a>
-    </p>
+     </p>
+  </samp>
+</div>
+</details>
+
+<details>
+  <summary>🧮 about</summary>
+<div>
+<samp>
+   <ul>
+    * Computer Science & Engineering Student at KPRIET <br>
+    * I'm a Front-end Web Developer and Content Writer <br>
+    * I can provide clean code and pixel perfect design <br>
+</ul>
+</samp>
+</div>
+</details>
 
 
     

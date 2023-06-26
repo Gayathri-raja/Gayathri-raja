@@ -17,9 +17,7 @@
 </ul>
 
 <h2>Programming Languages</h2>
-![Generic badge](https://img.shields.io/badge/MY%20SQL-CC2927?logo=mysql&logoColor=fff&style=flat)
-   ![Generic badge](https://img.shields.io/badge/HTML5-%23E34F26?logo=html5&logoColor=fff&style=flat)
-   ![Generic badge](https://img.shields.io/badge/CSS3-%2338B2AC?logo=css3&logoColor=fff&style=flat)
+
 <h2>Contact</h2>
  <div>
   <samp>
@@ -38,39 +36,8 @@
      </p>
   </samp>
 </div>
-<details>
-  <summary>☎️ contact me</summary>
-<div>
-  <samp>
-    <h2 align="center">you can reach me by:</h2>
-    <p align="center">
-      <br/>
-      <a href="https://www.linkedin.com/in/gaayathri-raja-83369b225" target="blank"><img align="center"
-         src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
-         alt="azzar" height="30"/></a>
-      <a href="https://www.facebook.com/profile.php?id=100080059535011&mibextid=ZbWKwL" target="blank"><img align="center"
-         src="https://img.shields.io/badge/facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white"
-         alt="azzar" height="30"/></a>
-      <a href="mailto:gaayathri2629@gmail.com" target="blank"><img align="center"
-         src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
-         alt="azzar" height="30"/></a>
-     </p>
-  </samp>
-</div>
-</details>
 
-<details>
-  <summary>🧮 about</summary> <br>
-<div>
-<samp>
-   <ul>
-    * Computer Science & Engineering Student at KPRIET <br>
-    * I'm a Front-end Web Developer and Content Writer <br>
-    * I can provide clean code and pixel perfect design <br>
-</ul>
-</samp>
-</div>
-</details>
+
 
 
     

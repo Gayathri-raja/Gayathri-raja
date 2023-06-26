@@ -17,6 +17,14 @@
 </ul>
 
 <h2>Programming Languages</h2>
+<ul>
+   *Html
+   *CSS
+   *Javascript
+   *Sql
+   *PHP
+   *Java
+</ul>
 
 <h2>Contact</h2>
  <div>

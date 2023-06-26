@@ -39,7 +39,7 @@
 </details>
 
 <details>
-  <summary>🧮 about</summary>
+  <summary>🧮 about</summary> <br>
 <div>
 <samp>
    <ul>

@@ -3,9 +3,9 @@
 <h3 align="left">A passionate Full Stack Developer and Content Writer</h3>
 <br>
 <h2>About Me</h2>
-* Computer Science & Engineering student at KPRIET
-* I'm a Front-end Web Developer and Content-Writer
-* I can provide clean code and pixel perfect design
+* Computer Science & Engineering student at KPRIET <br>
+* I'm a Front-end Web Developer and Content-Writer <br>
+* I can provide clean code and pixel perfect design <br>
 
 
     

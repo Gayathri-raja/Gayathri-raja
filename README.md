@@ -2,7 +2,6 @@
 <h1 align="left"> I'm Gaayathri K R</h1>
 <h3 align="left">A passionate Full Stack Developer and Content Writer</h3>
 
-- 📫 How to reach me **gaayathri2629@gmail.com**
 
 
 

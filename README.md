@@ -4,6 +4,7 @@
 <br>
 <h2>About Me</h2>
 <ul>
+   - George Washington
     * Computer Science & Engineering Student at KPRIET <br>
     * I'm a Front-end Web Developer and Content Writer <br>
     * I can provide clean code and pixel perfect design <br>

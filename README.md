@@ -11,6 +11,7 @@
 
 <h2>Services</h2>
 <ul>
+   <script src="https://kit.fontawesome.com/31cbbd2ee8.js" crossorigin="anonymous"></script>
    <i class="fa-solid fa-code"></i>
 </ul>
 

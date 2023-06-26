@@ -1,3 +1,6 @@
+<head>
+   <script src="https://kit.fontawesome.com/31cbbd2ee8.js" crossorigin="anonymous"></script>
+</head>
 <h3 align="left"> Hey Guys!! </h3>
 <h1 align="left"> I'm Gaayathri raja</h1>
 <h3 align="left">A passionate Full Stack Developer and Content Writer</h3>
